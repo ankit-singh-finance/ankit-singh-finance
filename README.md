@@ -23,7 +23,7 @@ Finance professional with experience in financial analysis, capital markets, and
 | Domain | Tools & Skills |
 |--------|---------------|
 | **Financial Analysis** | DCF Valuation · LBO · Comparable Company Analysis · Dividend Policy Research |
-| **Data & Reporting** | Power BI · Excel (Advanced) · Python |
+| **Data & Reporting** | Power BI · Excel (Advanced) |
 | **Market Data** | Bloomberg Terminal |
 | **Accounting** | Corporate Finance · Treasury Management · Capital Markets |
 

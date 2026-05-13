@@ -1,7 +1,7 @@
 # Hi there, I'm Ankit Singh 👋
 
-**Finance Professional | Berlin, Germany**  
-*MSc Finance, Gisma University of Applied Sciences (Yale SOM Partnership, 2025)*  
+**Equity Research & Capital Markets Analyst | Berlin, Germany**
+*MSc Finance, Gisma University of Applied Sciences (Yale SOM Partnership, 2025)*
 *BA Hons. Business Administration, University of Delhi*
 
 ---
@@ -12,7 +12,7 @@ Finance professional with experience in financial analysis, capital markets, and
 
 - 📍 **Location:** Berlin, Germany
 - 🎓 **Education:** MSc Finance — Gisma University / Yale School of Management
-- 💼 **Experience:** Assistant Accountant, Notch World Club Educators
+- 💼 **Experience:** Assistant Accountant — Notch World Club Educators (Jul 2021 – Sep 2024)
 - 🌍 **Languages:** English (Fluent) · Hindi (Native) · Deutsch (Grundkenntnisse)
 - 📊 **Focus Areas:** Equity Research · DCF Valuation · Financial Modeling · Capital Markets
 
